@@ -24,11 +24,11 @@ python -m Pyro4.naming
 ```
 Execute o servidor do chat:
 ```
-python \\.server.py
+python \.server.py
 ```
 Execute o chat:
 ```
-python \\.chat.py
+python \.chat.py
 ```
 
 ## Observações
